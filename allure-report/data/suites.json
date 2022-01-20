@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Validate Volvo Cars",
+    "children" : [ {
+      "name" : "should display list of Menu items",
+      "uid" : "e5f39226254b7168",
+      "parentUid" : "f2fb1ff0ce86405d02e5b002ab338e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642643272398,
+        "stop" : 1642643295756,
+        "duration" : 23358
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "social links should be present in Menu",
+      "uid" : "223bd33685a448ab",
+      "parentUid" : "f2fb1ff0ce86405d02e5b002ab338e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642643295757,
+        "stop" : 1642643298179,
+        "duration" : 2422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Our cars should contain different car types",
+      "uid" : "4fbc2ae761de7f39",
+      "parentUid" : "f2fb1ff0ce86405d02e5b002ab338e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642643298180,
+        "stop" : 1642643298262,
+        "duration" : 82
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "A million more video sshould be present",
+      "uid" : "a9ef6f84bb5bef6e",
+      "parentUid" : "f2fb1ff0ce86405d02e5b002ab338e95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642643298273,
+        "stop" : 1642643298289,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    } ],
+    "uid" : "f2fb1ff0ce86405d02e5b002ab338e95"
+  } ]
+}

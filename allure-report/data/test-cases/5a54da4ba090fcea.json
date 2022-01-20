@@ -1,0 +1,633 @@
+{
+  "uid" : "5a54da4ba090fcea",
+  "name" : "social links should be present in Menu",
+  "fullName" : "Validate Volvo Cars.social links should be present in Menu",
+  "historyId" : "6fe9c3ecf850b6f8ae98fe32a28959d7",
+  "time" : {
+    "start" : 1642643095029,
+    "stop" : 1642643155052,
+    "duration" : 60023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)\n                    at createTimeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:557:17)\n                    at processTimers (node:internal/timers:500:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)",
+    "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)\n                    at createTimeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:557:17)\n                    at processTimers (node:internal/timers:500:7)",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1642643095031,
+        "stop" : 1642643095633,
+        "duration" : 602
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/elements",
+        "time" : {
+          "start" : 1642643095271,
+          "stop" : 1642643095630,
+          "duration" : 359
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/element",
+          "time" : {
+            "start" : 1642643095289,
+            "stop" : 1642643095628,
+            "duration" : 339
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "POST /session/:sessionId/element",
+            "time" : {
+              "start" : 1642643095296,
+              "stop" : 1642643095625,
+              "duration" : 329
+            },
+            "status" : "passed",
+            "steps" : [ {
+              "name" : "POST /session/:sessionId/element",
+              "time" : {
+                "start" : 1642643095308,
+                "stop" : 1642643095621,
+                "duration" : 313
+              },
+              "status" : "passed",
+              "steps" : [ {
+                "name" : "POST /session/:sessionId/element",
+                "time" : {
+                  "start" : 1642643095315,
+                  "stop" : 1642643095617,
+                  "duration" : 302
+                },
+                "status" : "passed",
+                "steps" : [ {
+                  "name" : "POST /session/:sessionId/element",
+                  "time" : {
+                    "start" : 1642643095319,
+                    "stop" : 1642643095570,
+                    "duration" : 251
+                  },
+                  "status" : "passed",
+                  "steps" : [ {
+                    "name" : "POST /session/:sessionId/element",
+                    "time" : {
+                      "start" : 1642643095330,
+                      "stop" : 1642643095357,
+                      "duration" : 27
+                    },
+                    "status" : "passed",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "name" : "Request",
+                      "type" : "application/json",
+                      "size" : 0
+                    }, {
+                      "name" : "Response",
+                      "type" : "application/json",
+                      "size" : 0
+                    } ],
+                    "parameters" : [ ],
+                    "shouldDisplayMessage" : false,
+                    "attachmentsCount" : 2,
+                    "hasContent" : true,
+                    "stepsCount" : 0
+                  }, {
+                    "name" : "POST /session/:sessionId/elements",
+                    "time" : {
+                      "start" : 1642643095362,
+                      "stop" : 1642643095371,
+                      "duration" : 9
+                    },
+                    "status" : "passed",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "name" : "Request",
+                      "type" : "application/json",
+                      "size" : 0
+                    }, {
+                      "name" : "Response",
+                      "type" : "application/json",
+                      "size" : 0
+                    } ],
+                    "parameters" : [ ],
+                    "shouldDisplayMessage" : false,
+                    "attachmentsCount" : 2,
+                    "hasContent" : true,
+                    "stepsCount" : 0
+                  }, {
+                    "name" : "POST /session/:sessionId/elements",
+                    "time" : {
+                      "start" : 1642643095373,
+                      "stop" : 1642643095383,
+                      "duration" : 10
+                    },
+                    "status" : "passed",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "name" : "Request",
+                      "type" : "application/json",
+                      "size" : 0
+                    }, {
+                      "name" : "Response",
+                      "type" : "application/json",
+                      "size" : 0
+                    } ],
+                    "parameters" : [ ],
+                    "shouldDisplayMessage" : false,
+                    "attachmentsCount" : 2,
+                    "hasContent" : true,
+                    "stepsCount" : 0
+                  }, {
+                    "name" : "POST /session/:sessionId/elements",
+                    "time" : {
+                      "start" : 1642643095385,
+                      "stop" : 1642643095394,
+                      "duration" : 9
+                    },
+                    "status" : "passed",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "name" : "Request",
+                      "type" : "application/json",
+                      "size" : 0
+                    }, {
+                      "name" : "Response",
+                      "type" : "application/json",
+                      "size" : 0
+                    } ],
+                    "parameters" : [ ],
+                    "shouldDisplayMessage" : false,
+                    "attachmentsCount" : 2,
+                    "hasContent" : true,
+                    "stepsCount" : 0
+                  }, {
+                    "name" : "POST /session/:sessionId/elements",
+                    "time" : {
+                      "start" : 1642643095396,
+                      "stop" : 1642643095538,
+                      "duration" : 142
+                    },
+                    "status" : "passed",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "name" : "Request",
+                      "type" : "application/json",
+                      "size" : 0
+                    }, {
+                      "name" : "Response",
+                      "type" : "application/json",
+                      "size" : 0
+                    } ],
+                    "parameters" : [ ],
+                    "shouldDisplayMessage" : false,
+                    "attachmentsCount" : 2,
+                    "hasContent" : true,
+                    "stepsCount" : 0
+                  }, {
+                    "name" : "POST /session/:sessionId/elements",
+                    "time" : {
+                      "start" : 1642643095546,
+                      "stop" : 1642643095562,
+                      "duration" : 16
+                    },
+                    "status" : "passed",
+                    "steps" : [ ],
+                    "attachments" : [ {
+                      "name" : "Request",
+                      "type" : "application/json",
+                      "size" : 0
+                    }, {
+                      "name" : "Response",
+                      "type" : "application/json",
+                      "size" : 0
+                    } ],
+                    "parameters" : [ ],
+                    "shouldDisplayMessage" : false,
+                    "attachmentsCount" : 2,
+                    "hasContent" : true,
+                    "stepsCount" : 0
+                  } ],
+                  "attachments" : [ {
+                    "name" : "Request",
+                    "type" : "application/json",
+                    "size" : 0
+                  }, {
+                    "name" : "Response",
+                    "type" : "application/json",
+                    "size" : 0
+                  } ],
+                  "parameters" : [ ],
+                  "shouldDisplayMessage" : false,
+                  "attachmentsCount" : 14,
+                  "hasContent" : true,
+                  "stepsCount" : 6
+                }, {
+                  "name" : "POST /session/:sessionId/elements",
+                  "time" : {
+                    "start" : 1642643095572,
+                    "stop" : 1642643095595,
+                    "duration" : 23
+                  },
+                  "status" : "passed",
+                  "steps" : [ ],
+                  "attachments" : [ {
+                    "name" : "Request",
+                    "type" : "application/json",
+                    "size" : 0
+                  }, {
+                    "name" : "Response",
+                    "type" : "application/json",
+                    "size" : 0
+                  } ],
+                  "parameters" : [ ],
+                  "shouldDisplayMessage" : false,
+                  "attachmentsCount" : 2,
+                  "hasContent" : true,
+                  "stepsCount" : 0
+                }, {
+                  "name" : "POST /session/:sessionId/elements",
+                  "time" : {
+                    "start" : 1642643095598,
+                    "stop" : 1642643095605,
+                    "duration" : 7
+                  },
+                  "status" : "passed",
+                  "steps" : [ ],
+                  "attachments" : [ {
+                    "name" : "Request",
+                    "type" : "application/json",
+                    "size" : 0
+                  }, {
+                    "name" : "Response",
+                    "type" : "application/json",
+                    "size" : 0
+                  } ],
+                  "parameters" : [ ],
+                  "shouldDisplayMessage" : false,
+                  "attachmentsCount" : 2,
+                  "hasContent" : true,
+                  "stepsCount" : 0
+                } ],
+                "attachments" : [ {
+                  "name" : "Request",
+                  "type" : "application/json",
+                  "size" : 0
+                }, {
+                  "name" : "Response",
+                  "type" : "application/json",
+                  "size" : 0
+                } ],
+                "parameters" : [ ],
+                "shouldDisplayMessage" : false,
+                "attachmentsCount" : 20,
+                "hasContent" : true,
+                "stepsCount" : 9
+              } ],
+              "attachments" : [ {
+                "name" : "Request",
+                "type" : "application/json",
+                "size" : 0
+              }, {
+                "name" : "Response",
+                "type" : "application/json",
+                "size" : 0
+              } ],
+              "parameters" : [ ],
+              "shouldDisplayMessage" : false,
+              "attachmentsCount" : 22,
+              "hasContent" : true,
+              "stepsCount" : 10
+            } ],
+            "attachments" : [ {
+              "name" : "Request",
+              "type" : "application/json",
+              "size" : 0
+            }, {
+              "name" : "Response",
+              "type" : "application/json",
+              "size" : 0
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 24,
+            "hasContent" : true,
+            "stepsCount" : 11
+          } ],
+          "attachments" : [ {
+            "name" : "Request",
+            "type" : "application/json",
+            "size" : 0
+          }, {
+            "name" : "Response",
+            "type" : "application/json",
+            "size" : 0
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 26,
+          "hasContent" : true,
+          "stepsCount" : 12
+        } ],
+        "attachments" : [ {
+          "name" : "Request",
+          "type" : "application/json",
+          "size" : 0
+        }, {
+          "name" : "Response",
+          "type" : "application/json",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 28,
+        "hasContent" : true,
+        "stepsCount" : 13
+      } ],
+      "attachments" : [ {
+        "name" : "Request",
+        "type" : "application/json",
+        "size" : 0
+      }, {
+        "name" : "Response",
+        "type" : "application/json",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 30,
+      "hasContent" : true,
+      "stepsCount" : 14
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1642643095880,
+        "stop" : 1642643095929,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/elements",
+        "time" : {
+          "start" : 1642643095897,
+          "stop" : 1642643095918,
+          "duration" : 21
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "name" : "Request",
+          "type" : "application/json",
+          "size" : 0
+        }, {
+          "name" : "Response",
+          "type" : "application/json",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "name" : "Request",
+        "type" : "application/json",
+        "size" : 0
+      }, {
+        "name" : "Response",
+        "type" : "application/json",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1642643096078,
+        "stop" : 1642643096090,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "name" : "Request",
+        "type" : "application/json",
+        "size" : 0
+      }, {
+        "name" : "Response",
+        "type" : "application/json",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1642643096370,
+        "stop" : 1642643096422,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/elements",
+        "time" : {
+          "start" : 1642643096383,
+          "stop" : 1642643096412,
+          "duration" : 29
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "name" : "Request",
+          "type" : "application/json",
+          "size" : 0
+        }, {
+          "name" : "Response",
+          "type" : "application/json",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2,
+        "hasContent" : true,
+        "stepsCount" : 0
+      } ],
+      "attachments" : [ {
+        "name" : "Request",
+        "type" : "application/json",
+        "size" : 0
+      }, {
+        "name" : "Response",
+        "type" : "application/json",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "hasContent" : true,
+      "stepsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1642643096589,
+        "stop" : 1642643096600,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "name" : "Request",
+        "type" : "application/json",
+        "size" : 0
+      }, {
+        "name" : "Response",
+        "type" : "application/json",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1642643096896,
+        "stop" : 1642643155052,
+        "duration" : 58156
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)\n                    at createTimeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:557:17)\n                    at processTimers (node:internal/timers:500:7)",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/elements",
+        "time" : {
+          "start" : 1642643096900,
+          "stop" : 1642643155052,
+          "duration" : 58152
+        },
+        "status" : "broken",
+        "statusMessage" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)\n                    at createTimeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:557:17)\n                    at processTimers (node:internal/timers:500:7)",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/elements",
+          "time" : {
+            "start" : 1642643097089,
+            "stop" : 1642643155052,
+            "duration" : 57963
+          },
+          "status" : "broken",
+          "statusMessage" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)\n                    at createTimeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:557:17)\n                    at processTimers (node:internal/timers:500:7)",
+          "steps" : [ {
+            "name" : "GET /session/:sessionId/screenshot",
+            "time" : {
+              "start" : 1642643105587,
+              "stop" : 1642643155052,
+              "duration" : 49465
+            },
+            "status" : "broken",
+            "statusMessage" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Validate Volvo Cars social links should be present in Menu\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\Surekha\\Downloads\\testvolvo\\test\\specs\\main.e2e.js)\n                    at createTimeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\Surekha\\Downloads\\testvolvo\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:557:17)\n                    at processTimers (node:internal/timers:500:7)",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : true,
+            "attachmentsCount" : 0,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "name" : "Request",
+            "type" : "application/json",
+            "size" : 0
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 1
+        } ],
+        "attachments" : [ {
+          "name" : "Request",
+          "type" : "application/json",
+          "size" : 0
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2,
+        "hasContent" : true,
+        "stepsCount" : 2
+      } ],
+      "attachments" : [ {
+        "name" : "Request",
+        "type" : "application/json",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 3,
+      "hasContent" : true,
+      "stepsCount" : 3
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 45,
+    "hasContent" : true,
+    "stepsCount" : 25
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "social links should be present in Menu"
+  }, {
+    "name" : "package",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a54da4ba090fcea.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

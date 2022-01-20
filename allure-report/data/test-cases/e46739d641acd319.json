@@ -1,0 +1,91 @@
+{
+  "uid" : "e46739d641acd319",
+  "name" : "A million more video sshould be present",
+  "fullName" : "Validate Volvo Cars.A million more video sshould be present",
+  "historyId" : "2b9793cf9748407de8c7c61e85b4ff1c",
+  "time" : {
+    "start" : 1642643155123,
+    "stop" : 1642643155127,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1642643155124,
+        "stop" : 0,
+        "duration" : -1642643155124
+      },
+      "status" : "unknown",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "48eefccdc4dab6eb",
+        "name" : "Request",
+        "source" : "48eefccdc4dab6eb.json",
+        "type" : "application/json",
+        "size" : 67
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "A million more video sshould be present"
+  }, {
+    "name" : "package",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e46739d641acd319.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 20 07:18:18 IST 2022","Thu Jan 20 07:18:18 IST 2022","16","","Validate Volvo Cars","","Validate Volvo Cars","A million more video sshould be present","A million more video sshould be present",""
+"passed","Thu Jan 20 07:18:18 IST 2022","Thu Jan 20 07:18:18 IST 2022","82","","Validate Volvo Cars","","Validate Volvo Cars","Our cars should contain different car types","Our cars should contain different car types",""
+"passed","Thu Jan 20 07:17:52 IST 2022","Thu Jan 20 07:18:15 IST 2022","23358","","Validate Volvo Cars","","Validate Volvo Cars","should display list of Menu items","should display list of Menu items",""
+"passed","Thu Jan 20 07:18:15 IST 2022","Thu Jan 20 07:18:18 IST 2022","2422","","Validate Volvo Cars","","Validate Volvo Cars","social links should be present in Menu","social links should be present in Menu",""

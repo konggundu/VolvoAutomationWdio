@@ -1,0 +1,41 @@
+[ {
+  "uid" : "223bd33685a448ab",
+  "name" : "social links should be present in Menu",
+  "time" : {
+    "start" : 1642643295757,
+    "stop" : 1642643298179,
+    "duration" : 2422
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9ef6f84bb5bef6e",
+  "name" : "A million more video sshould be present",
+  "time" : {
+    "start" : 1642643298273,
+    "stop" : 1642643298289,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5f39226254b7168",
+  "name" : "should display list of Menu items",
+  "time" : {
+    "start" : 1642643272398,
+    "stop" : 1642643295756,
+    "duration" : 23358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fbc2ae761de7f39",
+  "name" : "Our cars should contain different car types",
+  "time" : {
+    "start" : 1642643298180,
+    "stop" : 1642643298262,
+    "duration" : 82
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

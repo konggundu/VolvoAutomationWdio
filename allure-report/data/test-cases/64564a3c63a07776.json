@@ -1,0 +1,175 @@
+{
+  "uid" : "64564a3c63a07776",
+  "name" : "Our cars should contain different car types",
+  "fullName" : "Validate Volvo Cars.Our cars should contain different car types",
+  "historyId" : "f0fdc10d75280b2fce283b742d42ac2b",
+  "time" : {
+    "start" : 1642643155052,
+    "stop" : 1642643155120,
+    "duration" : 68
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1642643155097,
+        "stop" : 0,
+        "duration" : -1642643155097
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "POST /session/:sessionId/element",
+        "time" : {
+          "start" : 1642643155100,
+          "stop" : 0,
+          "duration" : -1642643155100
+        },
+        "status" : "unknown",
+        "steps" : [ {
+          "name" : "POST /session/:sessionId/element",
+          "time" : {
+            "start" : 1642643155104,
+            "stop" : 0,
+            "duration" : -1642643155104
+          },
+          "status" : "unknown",
+          "steps" : [ {
+            "name" : "POST /session/:sessionId/element",
+            "time" : {
+              "start" : 1642643155108,
+              "stop" : 0,
+              "duration" : -1642643155108
+            },
+            "status" : "unknown",
+            "steps" : [ {
+              "name" : "POST /session/:sessionId/element",
+              "time" : {
+                "start" : 1642643155114,
+                "stop" : 0,
+                "duration" : -1642643155114
+              },
+              "status" : "unknown",
+              "steps" : [ ],
+              "attachments" : [ {
+                "uid" : "e292fe576afa3a28",
+                "name" : "Request",
+                "source" : "e292fe576afa3a28.json",
+                "type" : "application/json",
+                "size" : 85
+              } ],
+              "parameters" : [ ],
+              "shouldDisplayMessage" : false,
+              "attachmentsCount" : 1,
+              "hasContent" : true,
+              "stepsCount" : 0
+            } ],
+            "attachments" : [ {
+              "uid" : "d1b7d6c4a574498f",
+              "name" : "Request",
+              "source" : "d1b7d6c4a574498f.json",
+              "type" : "application/json",
+              "size" : 88
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 2,
+            "hasContent" : true,
+            "stepsCount" : 1
+          } ],
+          "attachments" : [ {
+            "uid" : "cc17ffec37bf6ae",
+            "name" : "Request",
+            "source" : "cc17ffec37bf6ae.json",
+            "type" : "application/json",
+            "size" : 88
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 3,
+          "hasContent" : true,
+          "stepsCount" : 2
+        } ],
+        "attachments" : [ {
+          "uid" : "d23356da0913b06",
+          "name" : "Request",
+          "source" : "d23356da0913b06.json",
+          "type" : "application/json",
+          "size" : 88
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 3
+      } ],
+      "attachments" : [ {
+        "uid" : "bad22495de10735b",
+        "name" : "Request",
+        "source" : "bad22495de10735b.json",
+        "type" : "application/json",
+        "size" : 85
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 5,
+      "hasContent" : true,
+      "stepsCount" : 4
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5,
+    "hasContent" : true,
+    "stepsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "testMethod",
+    "value" : "Our cars should contain different car types"
+  }, {
+    "name" : "package",
+    "value" : "Validate Volvo Cars"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64564a3c63a07776.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}
